@@ -96,3 +96,8 @@ print (sum(double))
 # list comprehensions, doing more with less code
 evens = [value * 2 for value in range(1,100)]
 print (evens)
+
+# Exercise 4-3
+
+for value in range(1,21):
+    print (value)
